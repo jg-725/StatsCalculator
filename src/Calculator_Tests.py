@@ -7,6 +7,9 @@ class MyTestCase(unittest.TestCase):
         calculator = Calculator()
         self.assertIsInstance(calculator, Calculator)
 
+    def test_add_calc(self):
+        calculator = Calculator()
+
 
 if __name__ == '__main__':
     unittest.main()
