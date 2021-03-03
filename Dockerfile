@@ -1,7 +1,5 @@
 FROM python:3.7
 
-ADD . .
+ADD src /src
 
-RUN pip install -r requirements.txt
-
-CMD [ "python", "-m", " unittest", "discover" ]
+CMD [ "python", "./src/Calculator_Tests.py" ]
