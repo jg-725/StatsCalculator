@@ -1,3 +1,3 @@
-[![Build Status](https://travis-ci.com/jg-725/StatsCalculator.svg?branch=main)](https://travis-ci.com/jg-725/StatsCalculator)
+[![Build Status](https://www.travis-ci.com/jg-725/StatsCalculator.svg?branch=master)](https://www.travis-ci.com/jg-725/StatsCalculator)
 
 # StatsCalculator
