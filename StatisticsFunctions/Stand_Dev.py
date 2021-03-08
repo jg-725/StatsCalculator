@@ -4,4 +4,5 @@ from StatisticsFunctions.Variance import variance
 
 def standard_deviation():
     variance_value = variance()
-    return Operations.root(variance_value)
+    answer = Operations.root(variance_value)
+    return answer
