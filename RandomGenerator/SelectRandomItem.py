@@ -14,5 +14,4 @@ def choose():
 
     for i in range(length):
         pick = choice(numbers)
-
     return pick
