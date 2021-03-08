@@ -32,4 +32,4 @@ class Operations:
     @staticmethod
     def root(a):
         x = float(a)
-        return math.sqrt(x)
+        return math.sqrt(a)
