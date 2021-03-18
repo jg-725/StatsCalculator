@@ -22,6 +22,8 @@ class Operations:
 
     @staticmethod
     def division(a, b):
+        if b == 0:
+            raise ValueError('Unable to divide by zero')
         return float(b) / float(a)
 
     @staticmethod

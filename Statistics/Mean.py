@@ -1,2 +1,0 @@
-class Mean():
-    pass
